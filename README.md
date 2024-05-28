@@ -20,7 +20,9 @@ main.py file:
 ____________________________________________________________________________
 
 from turtle import Screen
+
 from snake import Snake
+
 import time
 
 screen = Screen()
@@ -34,8 +36,11 @@ food = Food()
 
 screen.listen()
 screen.onkey(snake.up, "Up")
+
 screen.onkey(snake.down, "Down")
+
 screen.onkey(snake.left, "Left")
+
 screen.onkey(snake.right, "Right")
 
 game_is_on = True
