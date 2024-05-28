@@ -11,7 +11,8 @@ Successfully developed a Snake Game using Python programming.
  7. Detect collision with tail **
 
 Creat A Snake Body :
-
+![WhatsApp Image 2024-05-28 at 12 25 51 PM](https://github.com/Ashvini8879/Snake-Game/assets/170402064/a33fc489-6f1d-4e54-b79d-f988307e63bf)
+![WhatsApp Image 2024-05-28 at 12 35 34 PM](https://github.com/Ashvini8879/Snake-Game/assets/170402064/acdc8404-eced-4eb0-9bff-eca6b1a4d552)
 
 
 
